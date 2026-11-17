@@ -1,0 +1,12 @@
+# Environment variables & secrets
+.env
+
+# Editor & OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs & temp files
+*.log
+*.tmp
+scratch_*.sql
